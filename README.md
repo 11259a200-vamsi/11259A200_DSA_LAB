@@ -7,6 +7,7 @@
 * **Branch:** Computer Science and Engineering (CSE)
 * **Section:** S4
 * **Institution:** Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (SCSVMV), Enathur, Kanchipuram
+* **HackerRank Profile:** [vamsijinagam](https://www.hackerrank.com/profile/vamsijinagam)
 
 ---
 
